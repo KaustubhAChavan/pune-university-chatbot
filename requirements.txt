@@ -1,0 +1,12 @@
+Flask
+openai
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+PyPDF2
+twilio
+python-docx
+elevenlabs
+Werkzeug
