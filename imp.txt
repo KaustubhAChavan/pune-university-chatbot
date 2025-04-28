@@ -1,0 +1,36 @@
+this old .env file content and also need to create local virtual env for project 
+
+# OpenAI Configuration
+OPENAI_API_KEY=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
+
+# Flask Configuration
+FLASK_APP=app.py
+FLASK_ENV=development
+DEBUG=True
+PORT=5000
+
+
+
+# ElevenLabs Configuration (for voice)
+ELEVENLABS_API_KEY=your_elevenlabs_api_key
+ELEVENLABS_VOICE_ID=EXAVITQu4vr4xnSDxMaL  # Nicole voice
+
+# Base URL for audio files (for Twilio)
+BASE_URL=https://your-deployed-app.com
+
+
+
+
+
+
+# Azure Speech Services
+AZURE_SPEECH_KEY=9fyi0Okkev27knXjkTUG1eOVudL3Z5XpUsqoYIjiBcuX0U2E8IrGJQQJ99BDACYeBjFXJ3w3AAAYACOGztql
+AZURE_SPEECH_REGION=eastus
+
+# Twilio Configuration
+TWILIO_ACCOUNT_SID=AC9e0cefa0961ffecb451016cfc5a8cbd2
+TWILIO_AUTH_TOKEN=4eac8bbfcffb97c66d5e1d10a360bb22 
+TWILIO_PHONE_NUMBER=+13158401423
+
+# Application settings
+WEBHOOK_SECRET=6mGBZ7uqwHzsQIot9gHCA48Kp85QkUUC
